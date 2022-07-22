@@ -1,2 +1,2 @@
 # node-todo-app-x
-Test Node.js app
+Test Node.js and MongoDB app
